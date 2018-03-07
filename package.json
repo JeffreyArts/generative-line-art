@@ -1,0 +1,15 @@
+{
+  "name": "generative-line",
+  "version": "0.0.1",
+  "description": "Infinite line art",
+  "main": "index.html",
+  "dependencies": {
+    "konva": "^1.7.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeffrey Arts",
+  "license": "ISC"
+}
